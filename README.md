@@ -13,6 +13,7 @@ Server Emulator for K.O.S (Kill on Sight: Secret Operations) - Also known as Sti
 <img width="1907" height="1115" alt="image" src="https://github.com/user-attachments/assets/7f60b61e-867e-46c1-8f0c-956e05bf17d1" />
 <img width="845" height="711" alt="image" src="https://github.com/user-attachments/assets/ffc9ba26-ce51-49e9-a62c-ac8fe1fc152b" />
 <img width="1628" height="1078" alt="image" src="https://github.com/user-attachments/assets/5732a191-3fea-4509-b7e6-a514cb8b9a21" />
+<img width="1018" height="803" alt="image" src="https://github.com/user-attachments/assets/106061b0-c6d6-40b5-8598-38aace6c3f50" />
 
 
 
