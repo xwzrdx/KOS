@@ -5,7 +5,7 @@ Server Emulator for K.O.S (Kill on Sight: Secret Operations) - Also known as Sti
 * FOV Changer
 * Viewmodel FOV changer
 * Windowed Mode & Borderless Windowed Support
-
+* Damage Numbers
 
 
 
