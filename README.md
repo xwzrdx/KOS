@@ -6,7 +6,8 @@ Server Emulator for K.O.S (Kill on Sight: Secret Operations) - Also known as Sti
 * Viewmodel FOV changer
 * Windowed Mode & Borderless Windowed Support
 * Damage Numbers
-
+* Friendly Fire Support (use ``FRIENDLYFIRE`` in room-name to enable)
+* Unlimited Sprint Stamina Support (use ``STAMINA`` in room-name to enable)
 
 
 # Screenshots
