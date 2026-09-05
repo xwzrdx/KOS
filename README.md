@@ -6,10 +6,10 @@ Server Emulator + Client Mods for K.O.S (Kill on Sight: Secret Operations) - Als
 * Viewmodel FOV changer
 * Windowed Mode & Borderless Windowed Support
 * Damage Numbers
-* Friendly Fire Mode (use ``FRIENDLYFIRE`` in room-name to enable)
-* Unlimited Sprint Stamina Mode (use ``STAMINA`` in room-name to enable)
-* Headshot Only Mode (use ``HEADSHOTONLY`` in room-name to enable)
-* 1 Headshot Kill Mode (use ``1HEADSHOTKILL`` in room-name to enable)
+* Custom Modes (see below)
+* Crosshair Changer
+
+
 
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b9d67eed-1418-43ce-a2f9-9f306b98c20e" />
@@ -24,5 +24,17 @@ Server Emulator + Client Mods for K.O.S (Kill on Sight: Secret Operations) - Als
 <img width="926" height="617" alt="image" src="https://github.com/user-attachments/assets/b0c4993a-50ac-49e1-a22f-fa689c00f48b" />
 
 
+
+
+# Custom Game Modes
+* ``FRIENDLYFIRE`` - Enables team damage.
+* ``STAMINA`` - Unlimited sprinting (Dash) stamina.
+* ``HEADSHOTONLY`` - Only Headshot damage will be registered.
+* ``1HEADSHOTKILL`` - Headshot hits will always kill your enemy with any weapon.
+* ``TANK`` - Doubles all players health to 200 HP.
+* ``LIFESTEAL`` - Instantly heal yourself for 100% of the damage dealt to an enemy.
+* ``OVERGROWN`` - Receive +2 HP on kills, and -2 HP on deaths, infinitely stacking.
+* ``NORESPAWN`` - One life mode, all victims of a team respawn when an entire team is dead.
+* ``HARDCORE`` - All players have 30 HP, no HUD, and team damage enabled.
 
 Discord: ``wzrd0001``
