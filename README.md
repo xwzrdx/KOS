@@ -8,7 +8,7 @@ Server Emulator + Client Mods for K.O.S (Kill on Sight: Secret Operations) - Als
 * Damage Numbers
 * Custom Modes (see below)
 * Crosshair Changer
-
+* FPS Limiter
 
 
 # Screenshots
