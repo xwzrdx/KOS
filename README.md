@@ -1,5 +1,5 @@
 # KOS
-Server Emulator for K.O.S (Kill on Sight: Secret Operations) - Also known as Sting.
+Server Emulator + Client Mods for K.O.S (Kill on Sight: Secret Operations) - Also known as Sting.
 
 # Client Features
 * FOV Changer
