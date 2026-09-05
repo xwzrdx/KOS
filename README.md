@@ -22,6 +22,7 @@ Server Emulator + Client Mods for K.O.S (Kill on Sight: Secret Operations) - Als
 <img width="285" height="198" alt="image" src="https://github.com/user-attachments/assets/3450658a-3abb-47a4-bf56-55294d558206" />
 <img width="522" height="400" alt="image" src="https://github.com/user-attachments/assets/01b47d07-e2e0-4601-a527-f68eaf3b719b" />
 <img width="926" height="617" alt="image" src="https://github.com/user-attachments/assets/b0c4993a-50ac-49e1-a22f-fa689c00f48b" />
+<img width="1017" height="806" alt="image" src="https://github.com/user-attachments/assets/d6b95269-d802-4309-afa8-df4c355a6219" />
 
 
 
@@ -36,5 +37,6 @@ Server Emulator + Client Mods for K.O.S (Kill on Sight: Secret Operations) - Als
 * ``OVERGROWN`` - Heal back to full health on kills. Additionally, receive +2 HP on kills, and -2 HP on deaths, infinitely stacking.
 * ``NORESPAWN`` - One life mode, all victims of a team respawn when an entire team is dead.
 * ``HARDCORE`` - All players have 30 HP, no HUD, and team damage enabled.
+* ``THIRDPERSON`` - All players have a Third Person perspective view.
 
 Discord: ``wzrd0001``
