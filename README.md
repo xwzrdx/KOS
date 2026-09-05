@@ -33,7 +33,7 @@ Server Emulator + Client Mods for K.O.S (Kill on Sight: Secret Operations) - Als
 * ``1HEADSHOTKILL`` - Headshot hits will always kill your enemy with any weapon.
 * ``TANK`` - Doubles all players health to 200 HP.
 * ``LIFESTEAL`` - Instantly heal yourself for 100% of the damage dealt to an enemy.
-* ``OVERGROWN`` - Receive +2 HP on kills, and -2 HP on deaths, infinitely stacking.
+* ``OVERGROWN`` - Heal back to full health on kills. Additionally, receive +2 HP on kills, and -2 HP on deaths, infinitely stacking.
 * ``NORESPAWN`` - One life mode, all victims of a team respawn when an entire team is dead.
 * ``HARDCORE`` - All players have 30 HP, no HUD, and team damage enabled.
 
