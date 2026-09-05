@@ -23,6 +23,7 @@ Server Emulator + Client Mods for K.O.S (Kill on Sight: Secret Operations) - Als
 <img width="522" height="400" alt="image" src="https://github.com/user-attachments/assets/01b47d07-e2e0-4601-a527-f68eaf3b719b" />
 <img width="926" height="617" alt="image" src="https://github.com/user-attachments/assets/b0c4993a-50ac-49e1-a22f-fa689c00f48b" />
 <img width="1017" height="806" alt="image" src="https://github.com/user-attachments/assets/d6b95269-d802-4309-afa8-df4c355a6219" />
+<img width="733" height="137" alt="image" src="https://github.com/user-attachments/assets/07ee2c8e-7fac-48a9-9ea1-f1c64f4ae92e" />
 
 
 
