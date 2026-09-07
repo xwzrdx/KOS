@@ -20,6 +20,15 @@ Server Emulator + Client Mods for K.O.S (Kill on Sight: Secret Operations) - Als
 * Lobby, Room, & Whisper Chat
 
 
+# To Do
+* GM Commands (``/kickroom, /kickserver /ban /maintenance /notice``)
+* Channel Maintenance check
+* Kick from room & prevent re-entry
+* Delete Character
+* Create additional characters
+* Delete/Sell weapons
+
+
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b9d67eed-1418-43ce-a2f9-9f306b98c20e" />
 <img width="617" height="370" alt="image" src="https://github.com/user-attachments/assets/37fc5717-234c-4c5b-a31f-7471abfed902" />
