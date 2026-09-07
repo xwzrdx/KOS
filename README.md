@@ -1,5 +1,5 @@
 # KOS
-Server Emulator + Client Mods for K.O.S (Kill on Sight: Secret Operations) - Also known as Sting.
+Server Emulator, ``.GEM``/ ``.GEL`` unpacker/repacker & Client Mods for K.O.S (Kill on Sight: Secret Operations) - Also known as Sting.
 Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. support is being worked on
 
 # Client Features
