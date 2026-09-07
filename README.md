@@ -23,10 +23,10 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Player info + other player info
 * Invite to room
 * New host when room host leaves room
+* Kick from room & prevent re-entry
 
 # To Do
 * GM Commands (``/kickroom, /kickserver /ban /maintenance /notice``)
-* Kick from room & prevent re-entry
 * Delete Character
 * Create additional characters
 * Delete/Sell weapons
@@ -53,6 +53,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 <img width="1105" height="757" alt="image" src="https://github.com/user-attachments/assets/8b16ca75-57e4-4ea3-bb12-3354e5e3d084" />
 <img width="737" height="530" alt="image" src="https://github.com/user-attachments/assets/e8240e22-b82c-4a1c-8767-c5e55fdf2531" />
 <img width="737" height="450" alt="image" src="https://github.com/user-attachments/assets/84ebdd6d-c8fd-4a51-b668-9d38f2722603" />
+<img width="998" height="561" alt="image" src="https://github.com/user-attachments/assets/7c9fcb3f-b62e-4141-890d-360592468822" />
 
 
 
