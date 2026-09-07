@@ -21,8 +21,8 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Lobby, Room, & Whisper Chat
 * Player info + other player info
 * Channel & Server Maintenance check
-
-
+* Invite to room
+* New host when room host leaves room
 
 # To Do
 * GM Commands (``/kickroom, /kickserver /ban /maintenance /notice``)
@@ -30,7 +30,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Delete Character
 * Create additional characters
 * Delete/Sell weapons
-
+* Add Friends + Friend List
 
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b9d67eed-1418-43ce-a2f9-9f306b98c20e" />
