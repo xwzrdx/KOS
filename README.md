@@ -35,6 +35,8 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Add Friends + Friend List
 * Compass Bar
 * Firing red dot pings on minimap
+* World Pings
+* Voice Chat (team-based + proximity chat)
 
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b9d67eed-1418-43ce-a2f9-9f306b98c20e" />
