@@ -6,7 +6,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * FOV Changer
 * Viewmodel FOV changer
 * Windowed Mode & Borderless Windowed Support
-* Damage Numbers
+* Headshot Aware Damage Numbers (Red numbers for Headshots)
 * Custom Modes (see below)
 * Crosshair Changer
 * FPS Limiter
@@ -26,6 +26,8 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Kick from room & prevent re-entry
 
 # To Do
+* Account already logged in check
+* Team Aware Player Fresnels/Outlines (Teammates: ``Green`` | Enemies: ``Red``)
 * GM Commands (``/kickroom, /kickserver /ban /maintenance /notice``)
 * Delete Character
 * Create additional characters
