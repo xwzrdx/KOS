@@ -29,7 +29,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Invite to room
 * New host when room host leaves room
 * Kick from room & prevent re-entry
-
+* Team Switch
 
 
 # To Do
@@ -43,6 +43,10 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Firing red dot pings on minimap
 * World Pings
 * Voice Chat (team-based + proximity chat)
+* Health Bar
+* Nametags
+
+
 
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b9d67eed-1418-43ce-a2f9-9f306b98c20e" />
@@ -67,6 +71,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 <img width="737" height="450" alt="image" src="https://github.com/user-attachments/assets/84ebdd6d-c8fd-4a51-b668-9d38f2722603" />
 <img width="998" height="561" alt="image" src="https://github.com/user-attachments/assets/7c9fcb3f-b62e-4141-890d-360592468822" />
 <img width="1005" height="766" alt="image" src="https://github.com/user-attachments/assets/46066b48-efd8-419e-9d32-6493cc261803" />
+<img width="1020" height="765" alt="image" src="https://github.com/user-attachments/assets/c83fff78-a323-4f78-a599-12b10c347985" />
 
 
 
