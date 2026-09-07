@@ -19,7 +19,10 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 # Server Features
 * ``[GM]`` Nickname check (only GMs allowed)
 * Channel & Server Maintenance check
+* Account already logged in check
 * Banned accounts check
+* Nickname already exists check
+* Create Character
 * Multiplayer
 * Shop
 * Inventory
@@ -33,7 +36,6 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 
 
 # To Do
-* Account already logged in check
 * GM Commands (``/kickroom, /kickserver /ban /maintenance /notice``)
 * Delete Character
 * Create additional characters
