@@ -10,6 +10,15 @@ Server Emulator + Client Mods for K.O.S (Kill on Sight: Secret Operations) - Als
 * Crosshair Changer
 * FPS Limiter
 
+# Server Features
+* ``[GM]`` Nickname check (only GMs allowed)
+* Banned accounts check
+* Multiplayer
+* Shop
+* Inventory
+* Stats
+* Lobby, Room, & Whisper Chat
+
 
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b9d67eed-1418-43ce-a2f9-9f306b98c20e" />
