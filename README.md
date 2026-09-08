@@ -95,6 +95,6 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * ``NORESPAWN`` - One life mode, all victims of a team respawn when an entire team is dead.
 * ``HARDCORE`` - All players have 30 HP, no HUD, and team damage enabled.
 * ``THIRDPERSON`` - All players have a Third Person perspective view.
-* ``CLASSIC`` - Fully default K.O.S experience. No custom crosshairs, fovs, etc.
+* ``CLASSIC`` - Fully default K.O.S experience. No custom crosshairs, no firing minimap red dot pings, no damage numbers, no compass, default fov, etc.
 
 Discord: ``wzrd0001``
