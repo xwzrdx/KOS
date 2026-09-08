@@ -17,7 +17,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Fog
 * Gamma
 * Compass
-
+* Widescreen Support (32:9 | 21:9)
 
 # Server Features
 * ``[GM]`` Nickname check (only GMs allowed)
@@ -49,7 +49,6 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Health Bar
 * Nametags
 * Secret Docs from kills (low chance)
-* Widescreen Resolution Support
 
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b9d67eed-1418-43ce-a2f9-9f306b98c20e" />
@@ -82,6 +81,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 <img width="272" height="112" alt="image" src="https://github.com/user-attachments/assets/5c4ce251-ddbe-4780-838d-33569fe92a33" />
 <img width="265" height="102" alt="image" src="https://github.com/user-attachments/assets/4a58ec72-2108-4d15-b333-fe66104cb5c4" />
 <img width="1917" height="1125" alt="image" src="https://github.com/user-attachments/assets/2a2e9e93-67b4-4a3c-94f0-e1b3334eb24d" />
+<img width="1917" height="842" alt="image" src="https://github.com/user-attachments/assets/81583e6a-eab7-4d04-87a3-5c0e8216643f" />
 
 
 
