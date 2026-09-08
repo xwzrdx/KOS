@@ -75,7 +75,8 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 <img width="1005" height="766" alt="image" src="https://github.com/user-attachments/assets/46066b48-efd8-419e-9d32-6493cc261803" />
 <img width="1020" height="765" alt="image" src="https://github.com/user-attachments/assets/c83fff78-a323-4f78-a599-12b10c347985" />
 <img width="550" height="247" alt="image" src="https://github.com/user-attachments/assets/057d50b0-ed15-43e4-a808-814b6fbe4acd" />
-![Uploading image.png…]()
+<img width="1917" height="1190" alt="image" src="https://github.com/user-attachments/assets/862a0b7e-0a3e-4e89-8cc9-1998c6f542fd" />
+
 
 
 
