@@ -12,10 +12,10 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * FPS Limiter
 * Team Aware Player Fresnels/Outlines (Teammates: ``Green`` | Enemies: ``Red``)
 * Discord Activity Integration
-* Fog
-* Bloom
 * Console
-
+* Bloom
+* Fog
+* Gamma
 
 
 # Server Features
@@ -35,21 +35,20 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * New host when room host leaves room
 * Kick from room & prevent re-entry
 * Team Switch
-
+* Add Friends + Friend List
 
 # To Do
 * GM Commands (``/kickroom, /kickserver /ban /maintenance /notice``)
 * Delete Character
 * Create additional characters
 * Delete/Sell weapons
-* Add Friends + Friend List
 * Compass Bar
 * Firing red dot pings on minimap
 * World Pings
 * Voice Chat (team-based + proximity chat)
 * Health Bar
 * Nametags
-
+* Secret Docs from kills (low chance)
 
 
 # Screenshots
@@ -79,8 +78,9 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 <img width="550" height="247" alt="image" src="https://github.com/user-attachments/assets/057d50b0-ed15-43e4-a808-814b6fbe4acd" />
 <img width="1917" height="1190" alt="image" src="https://github.com/user-attachments/assets/862a0b7e-0a3e-4e89-8cc9-1998c6f542fd" />
 <img width="1852" height="742" alt="image" src="https://github.com/user-attachments/assets/b3db2903-b3f9-43c9-9bd4-66cc6642e876" />
-
-
+<img width="691" height="412" alt="image" src="https://github.com/user-attachments/assets/d18ca410-1d61-4528-ae80-9addbf89e340" />
+<img width="272" height="112" alt="image" src="https://github.com/user-attachments/assets/5c4ce251-ddbe-4780-838d-33569fe92a33" />
+<img width="265" height="102" alt="image" src="https://github.com/user-attachments/assets/4a58ec72-2108-4d15-b333-fe66104cb5c4" />
 
 
 
@@ -95,5 +95,6 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * ``NORESPAWN`` - One life mode, all victims of a team respawn when an entire team is dead.
 * ``HARDCORE`` - All players have 30 HP, no HUD, and team damage enabled.
 * ``THIRDPERSON`` - All players have a Third Person perspective view.
+* ``CLASSIC`` - Fully default K.O.S experience. No custom crosshairs, fovs, etc.
 
 Discord: ``wzrd0001``
