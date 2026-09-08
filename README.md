@@ -12,7 +12,9 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * FPS Limiter
 * Team Aware Player Fresnels/Outlines (Teammates: ``Green`` | Enemies: ``Red``)
 * Discord Activity Integration
-* Fog Support
+* Fog
+* Bloom
+* Console
 
 
 
