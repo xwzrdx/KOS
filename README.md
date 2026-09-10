@@ -49,6 +49,10 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Health Bar
 * Nametags
 * Secret Docs from kills (low chance)
+* ``CLASSIC`` - Fully default K.O.S experience. No custom crosshairs, no firing minimap red dot pings, no damage numbers, no compass, default fov, etc.
+* ``NORESPAWN`` - One life mode, all victims of a team respawn when an entire team is dead.
+* ``HARDCORE`` - All players have 30 HP, no HUD, and team damage enabled.
+* ``GUNGAME``  - Receive random weapons on kills.
 
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b9d67eed-1418-43ce-a2f9-9f306b98c20e" />
@@ -93,9 +97,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * ``TANK`` - Doubles all players health to 200 HP.
 * ``LIFESTEAL`` - Instantly heal yourself for 100% of the damage dealt to an enemy.
 * ``OVERGROWN`` - Heal back to full health on kills. Additionally, receive +2 HP on kills, and -2 HP on deaths, infinitely stacking.
-* ``NORESPAWN`` - One life mode, all victims of a team respawn when an entire team is dead.
-* ``HARDCORE`` - All players have 30 HP, no HUD, and team damage enabled.
 * ``THIRDPERSON`` - All players have a Third Person perspective view.
-* ``CLASSIC`` - Fully default K.O.S experience. No custom crosshairs, no firing minimap red dot pings, no damage numbers, no compass, default fov, etc.
+
 
 Discord: ``wzrd0001``
