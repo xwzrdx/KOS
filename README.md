@@ -20,6 +20,8 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Widescreen Support (32:9 | 21:9)
 
 # Server Features
+* GM Chat Color
+* ``/notice`` GM Command
 * ``[GM]`` Nickname check (only GMs allowed)
 * Channel & Server Maintenance check
 * Account already logged in check
@@ -39,7 +41,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Add Friends + Friend List
 
 # To Do
-* GM Commands (``/kickroom, /kickserver /ban /maintenance /notice``)
+* GM Commands (``/kickroom, /kickserver /ban /maintenance``)
 * Delete Character
 * Create additional characters
 * Delete/Sell weapons
@@ -87,6 +89,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 <img width="265" height="102" alt="image" src="https://github.com/user-attachments/assets/4a58ec72-2108-4d15-b333-fe66104cb5c4" />
 <img width="1917" height="1125" alt="image" src="https://github.com/user-attachments/assets/2a2e9e93-67b4-4a3c-94f0-e1b3334eb24d" />
 <img width="1917" height="842" alt="image" src="https://github.com/user-attachments/assets/81583e6a-eab7-4d04-87a3-5c0e8216643f" />
+<img width="287" height="96" alt="image" src="https://github.com/user-attachments/assets/49612d85-c70d-4db7-8f23-bf7917a40cf0" />
 
 
 
