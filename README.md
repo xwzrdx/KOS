@@ -40,6 +40,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Kick from room & prevent re-entry
 * Team Switch
 * Add Friends + Friend List
+* Remove Friend
 
 # To Do
 * GM Commands (``/kickroom, /kickserver /ban /maintenance``)
