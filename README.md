@@ -18,6 +18,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Gamma
 * Compass
 * Widescreen Support (32:9 | 21:9)
+* Content from 2012 into 2009 (All Maps done, modes next.)
 
 # Server Features
 * GM Chat Color
@@ -90,6 +91,8 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 <img width="1917" height="1125" alt="image" src="https://github.com/user-attachments/assets/2a2e9e93-67b4-4a3c-94f0-e1b3334eb24d" />
 <img width="1917" height="842" alt="image" src="https://github.com/user-attachments/assets/81583e6a-eab7-4d04-87a3-5c0e8216643f" />
 <img width="287" height="96" alt="image" src="https://github.com/user-attachments/assets/49612d85-c70d-4db7-8f23-bf7917a40cf0" />
+<img width="456" height="335" alt="image" src="https://github.com/user-attachments/assets/1517217d-6491-489f-aace-28490d3d25a3" />
+<img width="1280" height="987" alt="image" src="https://github.com/user-attachments/assets/10c68efb-77f4-46ff-a3b2-cd366f1cd670" />
 
 
 
