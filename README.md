@@ -53,11 +53,12 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Health Bar
 * Nametags
 * Secret Docs from kills (low chance)
+* Clans
 * ``CLASSIC`` - Fully default K.O.S experience. No custom crosshairs, no firing minimap red dot pings, no damage numbers, no compass, default fov, etc.
 * ``NORESPAWN`` - One life mode, all victims of a team respawn when an entire team is dead.
 * ``HARDCORE`` - All players have 30 HP, no HUD, and team damage enabled.
 * ``GUNGAME``  - Receive random weapons on kills.
-* ``NOSPRINTING`` - Disables sprinting (Dashing) stamina.
+* ``NOSPRINT`` - Disables sprinting (Dashing) stamina.
 
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b9d67eed-1418-43ce-a2f9-9f306b98c20e" />
