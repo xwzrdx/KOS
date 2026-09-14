@@ -41,9 +41,13 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Team Switch
 * Add Friends + Friend List
 * Remove Friend
+* Nation when creating character
+* 2012 Client Support
 
 # To Do
-* 2012 Client Support
+* Change Nation Coupon
+* Change Nickname Coupon
+* Broadcast Message
 * GM Commands (``/kickroom, /kickserver /ban /maintenance``)
 * Delete Character
 * Create additional characters
