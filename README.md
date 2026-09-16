@@ -45,6 +45,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * 2012 Client Support
 
 # To Do
+* Report Player
 * Change Nation Coupon
 * Change Nickname Coupon
 * Broadcast Message
