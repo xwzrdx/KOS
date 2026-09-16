@@ -22,7 +22,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 
 # Server Features
 * GM Chat Color
-* ``/notice`` GM Command
+* GM Commands (``/notice, /kickroom, /kickserver /ban /maintenance``)
 * ``[GM]`` Nickname check (only GMs allowed)
 * Channel & Server Maintenance check
 * Account already logged in check
@@ -52,7 +52,6 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Change Nation Coupon
 * Change Nickname Coupon
 * Broadcast Message
-* GM Commands (``/kickroom, /kickserver /ban /maintenance``)
 * Delete Character
 * Create additional characters
 * Delete/Sell weapons
