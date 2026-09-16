@@ -61,7 +61,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Voice Chat (team-based + proximity chat)
 * Health Bar
 * Nametags
-* Secret Docs from kills (5% chance for 1 Secret Doc, only against players, not AIs)
+* Secret Docs from kills (5% chance for 1 Secret Doc, only against players, not AIs, when a Secret Doc is given, print chat message notifying the player)
 * Clans
 * ``CLASSIC`` - Fully default K.O.S experience. No custom crosshairs, no firing minimap red dot pings, no damage numbers, no compass, default fov, etc.
 * ``NORESPAWN`` - One life mode, all victims of a team respawn when an entire team is dead.
