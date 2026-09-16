@@ -44,6 +44,8 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Nation when creating character
 * 2012 Client Support
 * Room Password verification
+* End Match Result
+* Level Up
 
 # To Do
 * Report Player
@@ -102,6 +104,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 <img width="287" height="96" alt="image" src="https://github.com/user-attachments/assets/49612d85-c70d-4db7-8f23-bf7917a40cf0" />
 <img width="456" height="335" alt="image" src="https://github.com/user-attachments/assets/1517217d-6491-489f-aace-28490d3d25a3" />
 <img width="1280" height="987" alt="image" src="https://github.com/user-attachments/assets/10c68efb-77f4-46ff-a3b2-cd366f1cd670" />
+<img width="1333" height="943" alt="image" src="https://github.com/user-attachments/assets/d71361eb-e8e8-480d-8bd4-ab622eefde07" />
 
 
 
