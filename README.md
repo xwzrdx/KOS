@@ -43,6 +43,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Remove Friend
 * Nation when creating character
 * 2012 Client Support
+* Room Password verification
 
 # To Do
 * Report Player
