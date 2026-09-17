@@ -47,12 +47,13 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * End Match Result
 * Level Up
 * Clank Ranking List
+* Secret Docs
 
 # To Do
-* Report Player
-* Change Nation Coupon
-* Change Nickname Coupon
-* Broadcast Message
+* Report Player (2012 client)
+* Change Nation Coupon (2012 client)
+* Change Nickname Coupon (2012 client)
+* Broadcast Message (2012 client)
 * Delete Character
 * Create additional characters
 * Delete/Sell weapons
@@ -61,7 +62,6 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Voice Chat (team-based + proximity chat)
 * Health Bar
 * Nametags
-* Secret Docs from kills (5% chance for 1 Secret Doc, only against players, not AIs, when a Secret Doc is given, print chat message notifying the player)
 * Clans
 * ``CLASSIC`` - Fully default K.O.S experience. No custom crosshairs, no firing minimap red dot pings, no damage numbers, no compass, default fov, etc.
 * ``NORESPAWN`` - One life mode, all victims of a team respawn when an entire team is dead.
@@ -107,6 +107,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 <img width="1280" height="987" alt="image" src="https://github.com/user-attachments/assets/10c68efb-77f4-46ff-a3b2-cd366f1cd670" />
 <img width="1333" height="943" alt="image" src="https://github.com/user-attachments/assets/d71361eb-e8e8-480d-8bd4-ab622eefde07" />
 <img width="1042" height="567" alt="image" src="https://github.com/user-attachments/assets/e9613421-30f5-4c2f-be67-598c93479715" />
+<img width="452" height="225" alt="image" src="https://github.com/user-attachments/assets/540cb0a7-33f0-487e-84d4-1f0dee619d56" />
 
 
 
