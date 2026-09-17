@@ -46,6 +46,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Room Password verification
 * End Match Result
 * Level Up
+* Clank Ranking List
 
 # To Do
 * Report Player
@@ -67,6 +68,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * ``HARDCORE`` - All players have 30 HP, no HUD, and team damage enabled.
 * ``GUNGAME``  - Receive random weapons on kills.
 * ``NOSPRINT`` - Disables sprinting (Dashing) stamina.
+* Leave Match + 200 Crones Deduction
 
 # Screenshots
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b9d67eed-1418-43ce-a2f9-9f306b98c20e" />
@@ -104,6 +106,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 <img width="456" height="335" alt="image" src="https://github.com/user-attachments/assets/1517217d-6491-489f-aace-28490d3d25a3" />
 <img width="1280" height="987" alt="image" src="https://github.com/user-attachments/assets/10c68efb-77f4-46ff-a3b2-cd366f1cd670" />
 <img width="1333" height="943" alt="image" src="https://github.com/user-attachments/assets/d71361eb-e8e8-480d-8bd4-ab622eefde07" />
+<img width="1042" height="567" alt="image" src="https://github.com/user-attachments/assets/e9613421-30f5-4c2f-be67-598c93479715" />
 
 
 
