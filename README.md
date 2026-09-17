@@ -18,7 +18,9 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Gamma
 * Compass
 * Widescreen Support (32:9 | 21:9)
-* Content from 2012 into 2009 (All Maps done, modes next.)
+* Content from 2012 into 2009 (All Maps)
+* Enabled all 4 Character slots instead of 1 (2009 client)
+* Create additional characters
 
 # Server Features
 * GM Chat Color
@@ -55,7 +57,6 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Change Nickname Coupon (2012 client)
 * Broadcast Message (2012 client)
 * Delete Character
-* Create additional characters
 * Delete/Sell weapons
 * Firing red dot pings on minimap
 * World Pings
