@@ -50,13 +50,13 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Level Up
 * Clank Ranking List
 * Secret Docs
+* Delete Character
 
 # To Do
 * Report Player (2012 client)
 * Change Nation Coupon (2012 client)
 * Change Nickname Coupon (2012 client)
 * Broadcast Message (2012 client)
-* Delete Character
 * Delete/Sell weapons
 * Firing red dot pings on minimap
 * World Pings
