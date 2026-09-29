@@ -51,6 +51,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Clank Ranking List
 * Secret Docs
 * Delete Character
+* Apply to Clan
 
 # To Do
 * Report Player (2012 client)
