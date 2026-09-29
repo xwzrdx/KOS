@@ -54,11 +54,12 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Apply to Clan
 
 # To Do
+* Delete/Sell weapons
+* Disband Clan & remove or transfer ownership
 * Report Player (2012 client)
 * Change Nation Coupon (2012 client)
 * Change Nickname Coupon (2012 client)
 * Broadcast Message (2012 client)
-* Delete/Sell weapons
 * Firing red dot pings on minimap
 * World Pings
 * Voice Chat (team-based + proximity chat)
