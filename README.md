@@ -54,6 +54,7 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Apply to Clan
 
 # To Do
+* Clan Applications
 * Delete/Sell weapons
 * Disband Clan & remove or transfer ownership
 * Report Player (2012 client)
