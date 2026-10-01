@@ -53,9 +53,9 @@ Currently using the ``2009`` client ver. but ``2012`` pre-shutdown client ver. s
 * Secret Docs
 * Delete Character
 * Apply to Clan
+* Accept & Deny Clan Applications
 
 # To Do
-* Clan Applications
 * Delete/Sell weapons
 * Disband Clan & remove or transfer ownership
 * Report Player (2012 client)
